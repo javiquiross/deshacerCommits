@@ -4,3 +4,18 @@ Tercera línea
 Cuarta línea
 Quinta línea
 Sexta línea
+
+TIPOS DE COMMITS
+- feat: nueva funcionalidad.
+    feat(login): añade validación de email en el formulario
+    feat (api)!: cambia el formato dee respuesta de usuarios
+- fix: corregir un error
+    fix(db): corrige consulta que devolvía clientes duplicados
+    fix(carrito): evita total negativos con cupones
+- docs: cambios en documentación
+    docs: actualiza README con instrucciones de instalación
+- style: formato (espacios, comas,etc) sin cambiar la lógica
+- refactor: mejorar o reestructurar el código sin cambiar su comportamiento
+- test: añadir o corregir tests
+- chore: tareas de mantenimiento (dependencias, cofiguración, etc)
+- perf: mejoras de rendimiento
